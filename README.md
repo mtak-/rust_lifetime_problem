@@ -2,6 +2,8 @@
 
 ### build docs
 
+The docs contain the problem description, and guidance for solving the problem.
+
 ```sh
 $ cargo doc --no-deps --open
 ```
